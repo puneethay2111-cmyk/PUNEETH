@@ -1,0 +1,10 @@
+﻿# Compiled Java class files
+*.class
+
+# Package Files
+*.jar
+*.war
+
+# IDE configuration files
+.vscode/
+.idea/
