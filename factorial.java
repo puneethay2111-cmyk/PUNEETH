@@ -4,11 +4,15 @@ public class factorial
     {
         int num=5;
         int fa=1;
-        for(int i=1;i<=num;i++)
+        /*for(int i=1;i<=num;i++)
         {
-            fa=fa*i;
-        }
-        System.out.println("Factorial of "+num+" is "+fa);
+            fa=fa*i; 
+        }*/
+        //System.out.println("Factorial of "+num+" is "+fa);
+        static int fact(int num)
+        {
+            if (num==0)
+        }        
     }
     
 }
