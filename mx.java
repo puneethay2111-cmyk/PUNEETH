@@ -7,9 +7,9 @@ public class mx
     {
         for(int j=0;j<n;j++)
         {
-            System.out.print(n);
+            System.out.print(n+"  ");
         }
-        System.out.println();
+        System.out.println("");
     }
  }   
 }

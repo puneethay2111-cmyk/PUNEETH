@@ -3,7 +3,7 @@ public class twosum
    public static void main( String[] args)
    {
     int a[]={1,3,5,9,4,6};
-    int target=3;
+    int target=1;
     boolean is=false;
     for(int i=0;i<a.length;i++)
     {
