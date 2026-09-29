@@ -19,8 +19,10 @@ interface InterfaceDemo2
 
 class InheritClass extends ParentParent implements InterfaceDemo1, InterfaceDemo2 
 {
+    
     public void printSomething()
  {
+    
         System.out.println("Printing Something");
     }
 }
