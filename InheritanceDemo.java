@@ -28,14 +28,14 @@ class Animal
     String breed;
     int age;
 }
-class Dog extends Animal 
+class Dog extends Animal //inheritance form animal class
 {
     void makeSound()
     {
         System.out.println("woof ");
     }
 }
-class Cat extends Animal 
+class Cat extends Animal  //inheritance form animal class ueds extends keyword syntax:extends class name
 {
     void makeSound()
     {
