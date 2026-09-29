@@ -5,12 +5,16 @@ public class TrycatchDemo
         int solution;
         try
         {
-            solution = 4/0;
+            solution = 4/2;
             System.out.println("Solution: " + solution);
         }
         catch (Exception e)
         {
             System.out.println("A number can not be divided by zero.");
+        }
+        finally
+        {
+            System.out.println("Finally block is always executed.");
         }
     }
 }
