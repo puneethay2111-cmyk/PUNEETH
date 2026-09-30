@@ -5,7 +5,7 @@ public class TrycatchDemo
         int solution;
         try
         {
-            solution = 4/2;
+            solution = 4/0;
             System.out.println("Solution: " + solution);
         }
         catch (Exception e)
