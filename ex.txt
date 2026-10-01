@@ -1,0 +1,133 @@
+To find the length of the Array
+----> Arrayname.length()
+size of list
+-----> listname.size();
+
+shallow compare (==) //compares memory address
+deep compare (.equals()) actual value
+
+
+time complexity or Big(O)notation
+   ex : arr = {3,5,6,7}
+
+   print(arr[3]);
+
+constant time complexity----------> O(1)
+    : explaination:
+    it directly prints arr[3] without knowing others 
+    have constant time or less
+    one iteration
+linear time complexity 
+    : explaination
+    time is dependent on no of iterations of single row and multuple colums
+    ----> time complexity is n 
+    ----->for one loop 
+    O(n)
+quadratic time complexity 
+    : explaination
+    time is depentant on no of iterations of multiple row and colums
+    ----> time complexity is square of n
+    ----->for two loops
+    O(n(square))
+factorial time complexity 
+    : explaination
+    time is depentant on n!
+    O(n!)
+exponential time complexity 
+    :explaination
+    n raise to n 
+    O(2 raise to n)
+
+logarithimic time complexity 
+    :explaination
+    O(log n)  
+example: binary search 
+encapsulation: accessing variable by calling method
+
+
+
+space complexity : total amount of memory space an algorithm requires to run to completion relative to the size of its input.
+
+
+
+
+
+
+inhertence:
+
+diamond problem:
+ 
+
+
+
+ abtraction,inheritance,encapsulation,polymorphism
+
+ inheritance
+
+
+
+
+
+
+
+linked list vs list
+have nodes    ,   have only one space to store 1 element in one address
+
+nodes have previous        it has only it own address and value
+and next nodes address   ,
+
+we should use next         
+keyword to accessing       
+next node                 ,
+
+
+
+
+adding an elemnt in between the nodes of linked list 
+worst case : O(n)
+best case: O(1)
+
+
+collection framwork
+ArrayList
+LinkedList
+hash Map(Like dictonaries in python ,it is collection of keys and values    )
+
+
+(if two diferent keys have same Value or same key and has to be set in common index then it is called collision    )
+sets
+,Stack
+,queue .etc  
+
+methods
+.get()
+.add()
+.remove()
+ etc etc etc
+
+
+
+sets:
+ it has unique elements and does not have duplicate elements.
+ doesnt maintain order like list or LinkedList
+
+
+
+
+ interview:
+          
+
+
+
+
+
+
+
+
+menu driven application:
+
+the column in sql which has no duplicates then it  primary key
+sql is also called as ddms
+
+CRUD:
+create , read  , update , delete(droping a table).
