@@ -11,9 +11,9 @@ public class HashMapDemo
     System.out.println();
     System.out.println(A+"\n");
 
-    if(A.containsKey("Maths"))
+    if(A.containsKey("Sanskrit"))
     {
-        System.out.println("Maths is present "+"\n");
+        System.out.println("Sanskrit is present "+"\n");
     }
    }    
 }
